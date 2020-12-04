@@ -1,4 +1,4 @@
-describe('Login to Power Farm', () => {
+describe('PowerFarm - Create job', () => {
 
     it('Log in', () => {
       cy.visit('https://staging.powerfarm.ai/')
